@@ -85,6 +85,7 @@ This project was developed and tested in **two stages**:
 - Designed and simulated in **Proteus 8** to validate circuit connections and software logic.  
 - Includes accurate modeling of the **AT89C52**, **LED matrix**, **directional keys**, and **reset circuitry**.  
 - The simulation demonstrates real-time snake movement, direction control, and collision response.
+![Schematic](https://github.com/pratik001010/Embedded-System-Design-for-a-Real-Time-Snake-Game-on-AT89C52-Microcontroller/blob/f756664d0c40feedb5dc7d3aa5c2dd94a0756b7d/my%20annaconda%20don/SNAKE.png)
 
 ### ⚙️ 2. Real Hardware Prototype
 - Built and tested on a **physical AT89C52 microcontroller board**.  
@@ -95,9 +96,6 @@ This project was developed and tested in **two stages**:
 
 ### 🖼️ Demo Gallery
 You can include:
-- **Prototype setup image:** `prototype.jpg`
-- **Proteus simulation screenshot:** `simulation.png`
-- **Short demo video (optional):** uploaded as `.mp4` or YouTube link
 
 ```markdown
 ![Hardware Prototype](prototype.jpg)
